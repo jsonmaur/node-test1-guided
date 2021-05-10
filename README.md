@@ -10,4 +10,4 @@ In this module we will cover the basics of automated testing and use `jest` to w
 - [ ] move into the project folder.
 - [ ] type `npm install` to download dependencies.
 
-Please follow along as the instructor uses _Test Driven Development (TDD)_ to implement a simple calculator.
+Please follow along as the instructor uses _Test Driven Development (TDD)_ to implement a Car class.
